@@ -3,5 +3,6 @@ public class syntel {
     {
         System.out.println("Good day");
         System.out.println("Good lick");
+
     }
 }
